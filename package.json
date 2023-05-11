@@ -5,6 +5,9 @@
   "author": "madein90s <tianasdevjourney@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
   "devDependencies": {
     "nodemon": "^2.0.22"
   }
